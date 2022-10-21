@@ -5,8 +5,6 @@
 ## 介绍
 一个仿火币的flutter图表库包含深度图，支持各种指标及放大缩小、平移等操作
 
-[webdemo演示](https://flutter-widget.live/packages/flutter_k_chart)
-Demo v0.1.0：[下载 APK](https://github.com/415593725/flutter_k_chart/blob/master/k_chart.apk)
 
 ## 演示
 
